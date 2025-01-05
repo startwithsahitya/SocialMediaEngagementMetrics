@@ -1,0 +1,352 @@
+[
+  {
+    "post_id": "1",
+    "post_type": "carousel",
+    "likes": 250,
+    "shares": 30,
+    "comments": 20
+  },
+  {
+    "post_id": "2",
+    "post_type": "reels",
+    "likes": 500,
+    "shares": 100,
+    "comments": 80
+  },
+  {
+    "post_id": "3",
+    "post_type": "static_image",
+    "likes": 150,
+    "shares": 20,
+    "comments": 15
+  },
+  {
+    "post_id": "4",
+    "post_type": "carousel",
+    "likes": 300,
+    "shares": 45,
+    "comments": 50
+  },
+  {
+    "post_id": "5",
+    "post_type": "reels",
+    "likes": 800,
+    "shares": 200,
+    "comments": 120
+  },
+  {
+    "post_id": "6",
+    "post_type": "static_image",
+    "likes": 180,
+    "shares": 25,
+    "comments": 30
+  },
+  {
+    "post_id": "7",
+    "post_type": "carousel",
+    "likes": 270,
+    "shares": 35,
+    "comments": 40
+  },
+  {
+    "post_id": "8",
+    "post_type": "reels",
+    "likes": 1000,
+    "shares": 300,
+    "comments": 150
+  },
+  {
+    "post_id": "9",
+    "post_type": "static_image",
+    "likes": 130,
+    "shares": 15,
+    "comments": 10
+  },
+  {
+    "post_id": "10",
+    "post_type": "carousel",
+    "likes": 400,
+    "shares": 60,
+    "comments": 70
+  },
+  {
+    "post_id": "11",
+    "post_type": "reels",
+    "likes": 900,
+    "shares": 250,
+    "comments": 140
+  },
+  {
+    "post_id": "12",
+    "post_type": "static_image",
+    "likes": 200,
+    "shares": 30,
+    "comments": 25
+  },
+  {
+    "post_id": "13",
+    "post_type": "carousel",
+    "likes": 320,
+    "shares": 50,
+    "comments": 60
+  },
+  {
+    "post_id": "14",
+    "post_type": "reels",
+    "likes": 750,
+    "shares": 180,
+    "comments": 100
+  },
+  {
+    "post_id": "15",
+    "post_type": "static_image",
+    "likes": 170,
+    "shares": 22,
+    "comments": 18
+  },
+  {
+    "post_id": "16",
+    "post_type": "carousel",
+    "likes": 350,
+    "shares": 55,
+    "comments": 40
+  },
+  {
+    "post_id": "17",
+    "post_type": "reels",
+    "likes": 1100,
+    "shares": 350,
+    "comments": 180
+  },
+  {
+    "post_id": "18",
+    "post_type": "static_image",
+    "likes": 140,
+    "shares": 18,
+    "comments": 12
+  },
+  {
+    "post_id": "19",
+    "post_type": "carousel",
+    "likes": 280,
+    "shares": 40,
+    "comments": 30
+  },
+  {
+    "post_id": "20",
+    "post_type": "reels",
+    "likes": 950,
+    "shares": 280,
+    "comments": 160
+  },
+  {
+    "post_id": "21",
+    "post_type": "carousel",
+    "likes": 300,
+    "shares": 48,
+    "comments": 35
+  },
+  {
+    "post_id": "22",
+    "post_type": "reels",
+    "likes": 850,
+    "shares": 220,
+    "comments": 110
+  },
+  {
+    "post_id": "23",
+    "post_type": "static_image",
+    "likes": 160,
+    "shares": 24,
+    "comments": 20
+  },
+  {
+    "post_id": "24",
+    "post_type": "carousel",
+    "likes": 310,
+    "shares": 50,
+    "comments": 45
+  },
+  {
+    "post_id": "25",
+    "post_type": "reels",
+    "likes": 700,
+    "shares": 150,
+    "comments": 90
+  },
+  {
+    "post_id": "26",
+    "post_type": "static_image",
+    "likes": 190,
+    "shares": 28,
+    "comments": 25
+  },
+  {
+    "post_id": "27",
+    "post_type": "carousel",
+    "likes": 330,
+    "shares": 55,
+    "comments": 60
+  },
+  {
+    "post_id": "28",
+    "post_type": "reels",
+    "likes": 1200,
+    "shares": 400,
+    "comments": 200
+  },
+  {
+    "post_id": "29",
+    "post_type": "static_image",
+    "likes": 150,
+    "shares": 20,
+    "comments": 15
+  },
+  {
+    "post_id": "30",
+    "post_type": "carousel",
+    "likes": 290,
+    "shares": 38,
+    "comments": 25
+  },
+  {
+    "post_id": "31",
+    "post_type": "reels",
+    "likes": 950,
+    "shares": 300,
+    "comments": 175
+  },
+  {
+    "post_id": "32",
+    "post_type": "static_image",
+    "likes": 180,
+    "shares": 26,
+    "comments": 22
+  },
+  {
+    "post_id": "33",
+    "post_type": "carousel",
+    "likes": 350,
+    "shares": 65,
+    "comments": 70
+  },
+  {
+    "post_id": "34",
+    "post_type": "reels",
+    "likes": 1150,
+    "shares": 360,
+    "comments": 190
+  },
+  {
+    "post_id": "35",
+    "post_type": "static_image",
+    "likes": 200,
+    "shares": 30,
+    "comments": 28
+  },
+  {
+    "post_id": "36",
+    "post_type": "carousel",
+    "likes": 320,
+    "shares": 48,
+    "comments": 40
+  },
+  {
+    "post_id": "37",
+    "post_type": "reels",
+    "likes": 900,
+    "shares": 250,
+    "comments": 140
+  },
+  {
+    "post_id": "38",
+    "post_type": "static_image",
+    "likes": 170,
+    "shares": 22,
+    "comments": 20
+  },
+  {
+    "post_id": "39",
+    "post_type": "carousel",
+    "likes": 310,
+    "shares": 50,
+    "comments": 45
+  },
+  {
+    "post_id": "40",
+    "post_type": "reels",
+    "likes": 1050,
+    "shares": 320,
+    "comments": 150
+  },
+  {
+    "post_id": "41",
+    "post_type": "carousel",
+    "likes": 400,
+    "shares": 70,
+    "comments": 65
+  },
+  {
+    "post_id": "42",
+    "post_type": "reels",
+    "likes": 1100,
+    "shares": 400,
+    "comments": 200
+  },
+  {
+    "post_id": "43",
+    "post_type": "static_image",
+    "likes": 190,
+    "shares": 28,
+    "comments": 25
+  },
+  {
+    "post_id": "44",
+    "post_type": "carousel",
+    "likes": 340,
+    "shares": 60,
+    "comments": 55
+  },
+  {
+    "post_id": "45",
+    "post_type": "reels",
+    "likes": 750,
+    "shares": 180,
+    "comments": 100
+  },
+  {
+    "post_id": "46",
+    "post_type": "static_image",
+    "likes": 130,
+    "shares": 15,
+    "comments": 10
+  },
+  {
+    "post_id": "47",
+    "post_type": "carousel",
+    "likes": 370,
+    "shares": 70,
+    "comments": 75
+  },
+  {
+    "post_id": "48",
+    "post_type": "reels",
+    "likes": 1000,
+    "shares": 300,
+    "comments": 150
+  },
+  {
+    "post_id": "49",
+    "post_type": "static_image",
+    "likes": 200,
+    "shares": 30,
+    "comments": 28
+  },
+  {
+    "post_id": "50",
+    "post_type": "carousel",
+    "likes": 360,
+    "shares": 55,
+    "comments": 60
+  }
+]
